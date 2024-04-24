@@ -29,3 +29,35 @@ let someNumber = 254
 let someNumberIn = String (someNumber)
 console.log(typeof (someNumberIn))
 console.log(someNumberIn)
+
+
+// *********************operations*************************
+ 
+let value = 3
+let negValue = -value
+console.log(negValue)
+
+console.log(2 + 2)
+console.log(2 - 2)
+console.log(2 * 2)
+console.log(2 ** 3)
+console.log(2 % 3)
+console.log(2 / 3)
+
+let str1 = "soumya "
+let str2 = "Sethy"
+let str3 = str1 + str2
+console.log(str3)
+
+// prefix and postfix
+// postfix
+ let x = 3
+ const y  = x++
+ console.log(y)
+ console.log(x)
+
+ // prefix
+ let a = 3
+ const b  = ++a
+ console.log(a)
+ console.log(b)
