@@ -34,3 +34,29 @@ let myObj = {
 const myFunction = function () {
   console.log("hello worlld");
 }; // function
+//********************************************//
+
+// stack(primitive) heap(non-primitive)
+// primitive - you wil get a copy of the variables , non-promitive - it will change from meomory.
+
+let myYoutubeName = "trilosedotcom"
+let anotherNaame = myYoutubeName
+
+anotherNaame = "hello"
+
+console.log(myYoutubeName)
+console.log(anotherNaame)
+
+let userOne = {
+  name: "trilochan",
+  upi: "trilocahn@ybl",
+}
+
+let userTwo = userOne
+
+// console.log(userTwo)
+
+userTwo.name = "newemail@gmail.com"
+
+console.log(userOne.name)
+console.log(userTwo.name)
