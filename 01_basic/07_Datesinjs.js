@@ -17,3 +17,10 @@ console.log(myCreatedDatnew.toLocaleString());
 
 let myTimeStamp = Date.now()
 console.log(myTimeStamp)
+
+
+// let thisIsAObject = {
+//     fName:"soumya",
+//     lName:"Sethy",
+//     age:30,
+// }
