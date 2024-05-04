@@ -56,16 +56,16 @@ console.log(Math.max(number1 , number2, number3, number4));
 
 //calulate the min number from the varibale
 
-let pulationOfOdisha = 222;
-let pulationOfDelhi = 1250;
-let pulationOfPune = 896587;
-let pulationOfMumbai = 78924;
-let pulationOfBangolre = 59;
+// let pulationOfOdisha = 222;
+// let pulationOfDelhi = 1250;
+// let pulationOfPune = 896587;
+// let pulationOfMumbai = 78924;
+// let pulationOfBangolre = 59;
 
-let minPulation = Math.min(pulationOfOdisha, pulationOfBangolre, pulationOfDelhi, pulationOfMumbai, pulationOfPune);
+// let minPulation = Math.min(pulationOfOdisha, pulationOfBangolre, pulationOfDelhi, pulationOfMumbai, pulationOfPune);
 
-console.log(minPulation)
+// console.log(minPulation)
 
-// console.log(`Lowest Population state is ` + Math.min(pulationOfOdisha, pulationOfBangolre, pulationOfDelhi, pulationOfPune, pulationOfMumbai));
+// // console.log(`Lowest Population state is ` + Math.min(pulationOfOdisha, pulationOfBangolre, pulationOfDelhi, pulationOfPune, pulationOfMumbai));
 
 
